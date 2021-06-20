@@ -1,5 +1,5 @@
 ![Header](https://github.com/1chups/tokenvk/blob/main/assets/shapka.png)
 
 
-![VKontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)
+![VKontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=16AAFF)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FCF50A)
